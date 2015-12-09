@@ -12,3 +12,6 @@ http://note.youdao.com/share/web/file.html?id=8a777eda4842aa0f3d7fc6161577ab9b&t
 
 学习指向图
 http://web.itcast.cn/
+
+用angularJS写的实例代码
+https://github.com/angular/angular.js/wiki/Projects-using-AngularJS
