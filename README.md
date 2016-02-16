@@ -15,3 +15,10 @@ http://web.itcast.cn/
 
 用angularJS写的实例代码
 https://github.com/angular/angular.js/wiki/Projects-using-AngularJS
+
+
+遇到问题，解决问题的方案
+
+
+使用git pull文件时和本地文件冲突怎么办？
+http://www.01happy.com/git-resolve-conflicts/
